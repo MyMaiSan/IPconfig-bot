@@ -25,10 +25,7 @@
 
 ## ⚡ Использование скрипта
 
-1. Выполняем ```git clone https://github.com/MyMaiSan/Telegram-Parser.git```
-2. Получаем ```api_id``` и ```api_hash``` с помощью https://my.telegram.org/auth
-3. Вставляем полученные данные в ```config.ini```
+1. Выполняем ```https://github.com/MyMaiSan/IPconfig-bot```
+3. Вставляем TOKEN бота в ```config.py```
 4. Выполняем ```pip install -r requirements.txt```
-5. Запускаем ```parser.py```
-6. Вставляем пришедший от Telegram код
-7. Выбираем чат, участников которого необходимо спарсить
+5. Запускаем ```bot.py```
